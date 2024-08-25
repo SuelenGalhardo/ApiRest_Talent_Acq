@@ -26,3 +26,14 @@ https://www.beekeeperstudio.io/
 Lombok: 
 https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.34
 JPAData: 
+
+
+
+
+Documentation:
+Swagger es un conjunto de herramientas de software de código abierto para diseñar, construir, documentar, y utilizar servicios web RESTful:
+https://swagger.io/ 
+https://petstore.swagger.io/
+
+mvn Repository:
+https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
