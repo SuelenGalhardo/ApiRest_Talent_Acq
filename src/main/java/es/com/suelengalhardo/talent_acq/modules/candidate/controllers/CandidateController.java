@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 import es.com.suelengalhardo.talent_acq.modules.candidate.CandidateEntity;
-import es.com.suelengalhardo.talent_acq.useCases.CreateCandidateUseCase;
+import es.com.suelengalhardo.talent_acq.modules.company.useCases.CreateCandidateUseCase;
 import jakarta.validation.Valid;
 
 @RestController

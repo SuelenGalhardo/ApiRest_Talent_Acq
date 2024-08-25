@@ -1,4 +1,4 @@
-package es.com.suelengalhardo.talent_acq.useCases;
+package es.com.suelengalhardo.talent_acq.modules.company.useCases;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
