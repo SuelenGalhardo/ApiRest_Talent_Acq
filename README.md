@@ -18,7 +18,9 @@ services:
       - POSTGRES_PASSWORD=admin
       - POSTGRES_DB=talent_acq]
 ***docker-compose up -d
-https://github.com/Paxa/postbird?tab=readme-ov-file
+database para test:
+https://github.com/Paxa/postbird?tab=readme-ov-file or
+https://www.beekeeperstudio.io/
 
 
 Lombok: 
