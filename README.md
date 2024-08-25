@@ -18,6 +18,8 @@ services:
       - POSTGRES_PASSWORD=admin
       - POSTGRES_DB=talent_acq]
 ***docker-compose up -d
+https://github.com/Paxa/postbird?tab=readme-ov-file
+
 
 Lombok: 
 https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.34
