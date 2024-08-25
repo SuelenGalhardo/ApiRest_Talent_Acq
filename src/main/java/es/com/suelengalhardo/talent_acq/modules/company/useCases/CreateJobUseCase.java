@@ -4,10 +4,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import es.com.suelengalhardo.talent_acq.modules.company.entities.JobEntity;
+import es.com.suelengalhardo.talent_acq.modules.company.repositories.JobRepository;
 
 @Service
 public class CreateJobUseCase {
-  private JobRepository jobRepository;
+
 
 @Autowired 
 private JobRepository jobRepository;
