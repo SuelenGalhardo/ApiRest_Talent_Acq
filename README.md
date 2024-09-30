@@ -18,8 +18,10 @@ services:
       - POSTGRES_PASSWORD=admin
       - POSTGRES_DB=talent_acq]
 ***docker-compose up -d
+
+
 database para test:
-https://github.com/Paxa/postbird?tab=readme-ov-file or
+https://github.com/Paxa/postbird?tab=readme-ov-file  or 
 https://www.beekeeperstudio.io/
 
 
@@ -37,3 +39,8 @@ https://petstore.swagger.io/
 
 mvn Repository:
 https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
+
+
+Generar TOKEN :
+
+JWT (JSON Web Token) - https://jwt.io/
